@@ -1,0 +1,92 @@
+/* css for timepicker */
+			.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+			.ui-timepicker-div dl { text-align: left; }
+			.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+			.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+			.ui-timepicker-div td { font-size: 90%; }
+			.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+	    #button_uninit {
+            width: 75px;
+        }
+        #button_getcurrensn {
+            width: 157px;
+        }
+	    #button_init {
+            width: 75px;
+        }
+        #button_getsn {
+            width: 158px;
+        }
+        #div_test {
+            width: 400px;
+            margin-left: 206px;
+        }
+	    #test_shield {
+            margin-left: 65px;
+        }
+	    #test_rand {
+            margin-left: 89px;
+        }
+	    #button_test_Lock {
+            width: 64px;
+            margin-left: 18px;
+        }
+	    #div_rw_write {
+            height: 115px;
+        }
+        #button_read_num {
+            width: 137px;
+        }
+        #button_read_str {
+            margin-left: 30px;
+        }
+        #rw_read_addr {
+            width: 71px;
+            margin-left: 17px;
+        }
+        #button_read_strs {
+            width: 133px;
+            margin-left: 10px;
+        }
+        #rw_read_len {
+            width: 65px;
+        }
+	    #button_write_num {
+            margin-left: 32px;
+        }
+        #rw_write_addr {
+            width: 56px;
+        }
+        #rw_write_str {
+            margin-left: 8px;
+        }
+	    #rw_write_strs {
+            width: 134px;
+        }
+	    #button_write_strs {
+            width: 137px;
+        }
+	    #setlock_counter {
+            width: 50px;
+        }
+	    #button_test_limit {
+            margin-top: 18px;
+        }
+	    #Mod_old_psd {
+            width: 105px;
+        }
+        #Mod_new_psd {
+            width: 105px;
+        }
+        #Mod_confirm_psd {
+            width: 105px;
+        }
+	    #div_Time {
+            margin-top: 10px;
+        }
+	    #div_SetLed {
+            margin-top: 7px;
+        }
+        #div_getSerial {
+            margin-top: 17px;
+        }
